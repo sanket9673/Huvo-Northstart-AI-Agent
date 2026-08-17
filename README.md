@@ -1,7 +1,5 @@
 # Northstar Homes — AI Conversational Sales Agent
 
-Loom Video Link : https://www.loom.com/share/b71b73212f034effa854cbf776c6d33e
-
 ## 1. System Overview
 
 Northstar Homes AI Sales Agent is a conversational real estate assistant built with FastAPI (Python) and OpenAI LLM infrastructure (openai/gpt-oss-20b). The system is designed to handle customer inquiries, lead qualification, objection management, and site visit bookings for the Northstar One project located in Sector 79, Gurugram.
